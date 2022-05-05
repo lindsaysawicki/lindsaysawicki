@@ -1,8 +1,8 @@
 # Hi there 👋
 # I am Lindsay Sawicki 
-🔭 I’m currently working on graduating from the University of Iowa with a BBA in Business Analytics & Information Systems and Marketing.
-🌱 I’m currently learning Python and HTML.
-😄 Pronouns: She/her
+-I’m currently working on graduating from the University of Iowa with a BBA in Business Analytics & Information Systems and Marketing.
+-Chicago, IL
+-lindsay.sawicki1@gmail.com
 
 <!--
 **lindsaysawicki/lindsaysawicki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
