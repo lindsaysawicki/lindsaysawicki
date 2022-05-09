@@ -1,7 +1,7 @@
 
 # Hi! I am Lindsay Sawicki 
 I am graduating from the University of Iowa with a BBA in Business Analytics & Information Systems and Marketing.
-#### pronouns: she/her
+#### Pronouns: she/her
 [Linkedin](https://www.linkedin.com/in/lindsay-sawicki-a818a1173/)
 
 <!--
