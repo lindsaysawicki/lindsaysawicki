@@ -1,7 +1,8 @@
 
 # I am Lindsay Sawicki 
 I am graduating from the University of Iowa with a BBA in Business Analytics & Information Systems and Marketing.
-
+#### pronouns: she/her
+[Linkedin](https://www.linkedin.com/in/lindsay-sawicki-a818a1173/)
 
 <!--
 **lindsaysawicki/lindsaysawicki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
